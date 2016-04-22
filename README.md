@@ -1,12 +1,11 @@
-HyperspaceWP by jamesdevondevelopment.com based on
-Hyperspace by HTML5 UP
+HyperspaceWP
+
+Based on Hyperspace by HTML5 UP
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-"Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)"
+> Hyperspace: a fun, blocky, one-page design with a lot of color, a bit of animation, and an additional "generic" page template (because hey, even one-page sites usually need an interior page or two). Hope you dig it :)"
 
-Adaptions for WordPress
+###Adaptions for WordPress
 
 To populate the home page, go to the dashboard/home page sections.
 There you can create each of the home page section.
